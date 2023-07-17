@@ -1,0 +1,13 @@
+
+.slide{
+	width: 100%;
+	height: 100vh;
+	vertical-align: middle;
+	background-color: #000;
+	 display: table-cell; /* Important */ 
+    vertical-align: middle; /* Important */ 
+}
+
+img{
+	width: 100%;
+}
